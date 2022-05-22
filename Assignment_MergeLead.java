@@ -54,8 +54,6 @@ public class Assignment_MergeLead extends ProjectSpecificMethods{
 		} else {
 			System.out.println("Text not matched");
 		}
-
-		System.out.println("merge");
 	}
 	
 	@DataProvider
